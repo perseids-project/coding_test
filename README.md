@@ -49,7 +49,7 @@ Document 2: http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=1&doc=27
 Provide the answers to the following questions (markdown preferred, but text, doc, or PDF are also fine).
 
 1. What are the base addresses of the services from which the Arethusa application is retrieving data?
-2. What services are unique to retrieval of the above 2 documents?
+2. What services are unique to retrieval of the above 2 documents? Can you identify any differences in the interface that might be related to the differences in the requests being made?
 3. When retreiving Document 2, which service request do you think results in the user warning about not being logged in?
 4. When retrieving Document 1, which service request results in the text "Caes. Gall. 1.1" being present in the Arethusa interface?
 5. For each Document, which request produces the data that appears in the Greek and Latin syntax diagrams (the words which appear in a hierarchical tree)
