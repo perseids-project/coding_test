@@ -40,7 +40,7 @@ Option 2: Analyze interactions between Arethusa and Back-end services
 
 The purpose of this task is to analyze the interactions between the javascript application Arethusa and the back-end services which feed data to it.
 
-You can access a read-only views of two different documents in Arethusa at the following URLS:
+Access read-only views of two different documents in Arethusa at the following URLS:
 
 Document 1: http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4361&doc=lattb.4361.1
 
