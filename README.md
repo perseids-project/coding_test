@@ -43,6 +43,7 @@ The purpose of this task is to analyze the interactions between the javascript a
 You can access a read-only views of two different documents in Arethusa at the following URLS:
 
 Document 1: http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=4361&doc=lattb.4361.1
+
 Document 2: http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=1&doc=27598
 
 Provide the answers to the following questions in a Markdown file named ANSWERS.MD:
