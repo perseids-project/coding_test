@@ -46,7 +46,7 @@ Document 1: http://www.perseids.org/tools/arethusa/app/#/jmh?collid=lattb&objid=
 
 Document 2: http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=1&doc=27598
 
-Provide the answers to the following questions in a Markdown file named ANSWERS.MD:
+Provide the answers to the following questions (markdown preferred, but text, doc, or PDF also fine).
 
 1. What are the base addresses of the services from which the Arethusa application is retrieving data?
 2. What services are unique to retrieval of the above 2 documents?
