@@ -12,11 +12,11 @@ You can choose whichever of these tasks you prefer. Recommended time for either 
 Option 1: Client Application Task
 =================================
 
-The Perseids Collection Service is available at [https://collections.perseids.org](https://collections.perseids.org).  This service implements the [https://github.com/RDACollectionsWG/specification](RDA Collections API Specification). The base page for the service at https://collections.perseids.org will give you a user-friendly view of the API documentation, including the ability to test out sample calls and see a curl command which shows you the exact syntax of a request.
+The Perseids Collection Service is available at [http://collections.perseids.org](http://collections.perseids.org).  This service implements the [RDA Collections API Specification](https://github.com/RDACollectionsWG/specification). The base page for the service at http://collections.perseids.org will give you a user-friendly view of the API documentation, including the ability to test out sample calls and see a curl command which shows you the exact syntax of a request.
 
 Write a small client application, in the language of your choice, which interacts with the service to retrieve and display the properties of a single member item of a single collection.
 
-The application fulfill the following User Story:
+The application should fulfill the following *User Story*:
 
 As a user running the application I want to see the description of the collection with the id *org.perseids/Topic/TreebankCiteIdentifier/urn:cts:latinLit:phi0690.phi003.perseus-lat2* and the date it was created. I would also like to see the list of member items of this collection including their ids, locations and the date they were added to the collection.
 
